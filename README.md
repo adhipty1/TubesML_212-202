@@ -1,7 +1,7 @@
 # Deteksi Pemakaian Masker menggunakan metode Convolutional Neural Networks
 
 ## Deskripsi Dataset 
-Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/vijaykumar1799/face-mask-detection) yang terdiri dari :
+Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset) yang terdiri dari :
 1. with_mask
 2. without_mask
 
